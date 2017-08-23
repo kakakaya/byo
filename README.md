@@ -1,6 +1,6 @@
-# Byo.js
+# Zyo.js
 
-_(Note: Byo.js is forked from Ayo.js. It's like Ayo.js, but with a B. Ayo.js, though, is forked from [Node.js][]. Currently, a lot of the documentation
+_(Note: Zyo.js is forked from Byo.js, and Byo.js is forked from Ayo.js. To skip Cyo.js, Dyo.js, ..., Yyo.js steps, I've forked as Zyo.js. Ayo.js, though is forked from [Node.js][]. Currently, a lot of the documentation
 still points towards the Node.js repository.)_
 
 Ayo.js is a JavaScript runtime built on Chrome's V8 JavaScript engine. Ayo.js
